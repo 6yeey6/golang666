@@ -4,7 +4,7 @@
 
 ![](images/深入理解Go语言.jpg)
 
-
+### 有了ai使用ai学习更为直观
 | 平台 |  链接 |
 | --- | --- |
 | 当当自营 | http://product.dangdang.com/29569696.html |
